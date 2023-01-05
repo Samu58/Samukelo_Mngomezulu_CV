@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30 Dec 2022, 9:24:03 PM
+    Author     : mngom
+*/
+body{
+    background-image: url("wallpaper.jpg");
+    background-repeat: no-repeat;
+    color: white;
+}
+.headings{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    font-family: comic sans;
+    color: white;
+    border-radius: 25px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+section{
+    width: 28%;
+    float: Left;
+    padding: 12px;
+    display: inline-block;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#image{
+   border-radius: 50%;
+}
+
+button{
+    padding: 20px;
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
+.button{
+    text-align: left;
+    padding-left: 13%;
+}
